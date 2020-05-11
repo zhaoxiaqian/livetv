@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690621284_114.png" tvg-name="CCTV1" ,CCTV-1综合HD
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 ,CCTV-6高清
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 ,CCTV-11戏曲
-http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1 ,广东卫视高清
-http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 ,TVB 翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,TVB 明珠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 ,HKS卫视 高清
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 ,TVB财经台
+http://prdsecurelive.ainemo.com/live/225cjcj.flv
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
